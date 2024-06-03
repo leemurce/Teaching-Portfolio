@@ -1,5 +1,7 @@
 # Teaching-Portfolio
 
+Show What You Know: Write and Explain A Program (9): https://youtu.be/RRILvaSz8W0
+
 Show What You Know: Write and Explain A Program (8): https://youtu.be/CJXEN-qnrls
 
 Show What You Know: Write and Explain A Program (7): https://youtu.be/44eN4kB9XwM
